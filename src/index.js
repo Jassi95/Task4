@@ -1,4 +1,4 @@
-// task 2 by Juho Jääskeläinen
+// task 4 by Juho Jääskeläinen
 var size = 5;
 var gameTable = Array(size)
   .fill()
